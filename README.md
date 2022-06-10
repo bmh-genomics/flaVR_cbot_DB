@@ -1,2 +1,2 @@
 # flaVR_cbot_DB
-Amino acid (AA) and nucleotide (nt) databases for C. bot flagellin variable region (flaVR) typing (n=15)
+Amino acid (AA) and nucleotide (nt) databases for C. bot flagellin variable region (flaVR) typing (n=15) based on 15 flaVR types observed in C. botulinum Groups I and II bacteria (Citation: Woudstra C, Lambert D, Anniballi F, De Medici D, Austin J, Fach P. Genetic diversity of the flagellin genes of Clostridium botulinum groups I and II. Appl Environ Microbiol. 2013 Jul;79(13):3926-32. doi: 10.1128/AEM.00686-13. Epub 2013 Apr 19. PMID: 23603687; PMCID: PMC3697585.)
